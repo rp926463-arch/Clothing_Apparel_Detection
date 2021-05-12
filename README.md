@@ -23,7 +23,7 @@ In this work, we propose and address a new computer vision task, which we call f
   * tie
   * watch
 
-![Output](https://github.com/rp926463-arch/Blood-Cell-Detection/blob/main/research/data/BLOOD_CELLS_output/image5.png?raw=true)
+![Output](https://github.com/rp926463-arch/Clothing_Apparel_Detection/blob/main/app/output4.jpg?raw=true)
 
 ### Data preparation
 Data preparation is important to use machine learning. In this project, the SSD algorithm for Object Detection is used.
