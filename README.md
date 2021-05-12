@@ -1,1 +1,0 @@
-# Clothing_Apparel_Detection
